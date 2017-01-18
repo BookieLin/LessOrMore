@@ -1,15 +1,15 @@
 # Site settings
 name: 鲁斯菲尔
 email: topsale@vip.qq.com
-author: Lusifer Lee
+author: Lusifer
 url: https://topsale.github.io
 resume_site: https://topsale.github.io
 github: https://github.com/funtl
 baseurl: ""
-description: Beginner's mind.
+description: 匮乏即是富足，自律产生喜悦
 meta_description: 人生短暂，过着过着你就没了，明白么？
-motto: Innovation distinguishes between a leader and a follower.
-banner: 匮乏即是富足，自律产生喜悦
+motto: Beginner's mind.
+banner: Innovation distinguishes between a leader and a follower.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
